@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "興味ないよ",
+  "base_artist": "ラプラス・ダークネス",
+  "createdAt": "2026-03-08T16:56:38.828353Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "興味ないよ",
+      "artist": "ラプラス・ダークネス",
+      "has_synced": false,
+      "path": "select/pl_01_興味ないよ_ラプラス・ダークネス.txt"
+    }
+  ]
+}
